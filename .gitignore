@@ -39,3 +39,7 @@ project/plugins/project/
 # Scala-IDE specific
 .scala_dependencies
 .worksheet
+
+# More stuff I think needs to be ignored.
+.cache
+proguard_cache/
